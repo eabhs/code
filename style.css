@@ -1,0 +1,41 @@
+p{
+  
+  color: rgb(26, 112, 96);
+  font-family: verdana;
+  font-size: 200%;
+  border: 2px solid rgb(54, 87, 47);
+  padding: 100px;
+  margin: 100px;
+  background-color: rgb(106, 165, 171);
+
+}
+
+h1 {
+  color: rgb(2, 95, 129);
+  font-size: 500%;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(65, 124, 111);
+}
+
+h2 {
+
+  font-size: 300%;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(65, 124, 111);
+}
+
+p {
+  text-align: center;
+  color: rgb(32, 142, 90);
+}
+
+p {
+  text-align: left;
+  color: rgb(35, 152, 65);
+}
